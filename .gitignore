@@ -12,8 +12,8 @@ dist/
 *.egg-info/
 
 # IDE / Editor files
-.vscode/
 .idea/
 
 # Environment files
-.env
+config.bat
+node_modules
